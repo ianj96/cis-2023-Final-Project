@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "CIS-2023 Final Project Counter Script"
+for i in {1..50}
+do
+echo $i
+sleep 1 
+done
